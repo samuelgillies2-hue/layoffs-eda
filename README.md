@@ -52,7 +52,4 @@ How to Use
 Open Layoffs_EDA.sql in MySQL Workbench (or any MySQL client) connected to the world_layoffs schema.
 Run queries individually (highlight + execute) to explore each angle of the data.
 Export any result set to CSV via the results grid's export icon, then open in Excel if you want to share or visualize findings outside SQL.
-Possible Next Steps
-Break out layoffs by location (city-level), if available, for regional analysis.
-Correlate percentage_laid_off against funds_raised_millions more formally (e.g., scatterplot in Excel/Python) to see if funding level predicts layoff severity.
-Build a dashboard (Tableau, Power BI, or Excel PivotTables) from exported query results for visual storytelling.
+
